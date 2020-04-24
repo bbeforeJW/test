@@ -8,13 +8,8 @@ public class Test {
 		System.out.println("1111");
 		System.out.println("³­ Á¶¿ø!");
 		System.out.println("2222");
-		asd
-		asd
 		
-		¤±¤¤¤·
-		¤±¤¤¤·
-		
-		
+		System.out.println("asd");
 		
 	}
 }
