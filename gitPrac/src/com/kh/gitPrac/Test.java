@@ -12,5 +12,9 @@ public class Test {
 		System.out.println("asd");
 		System.out.println("¤±¤¤¤·");
 		
+		System.out.println("³­ Á¶¿ø!");
+		System.out.println("3333");
+		
+		System.out.println("4444");
 	}
 }
